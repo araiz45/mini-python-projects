@@ -8,7 +8,7 @@
 # 6 - Floor Division (//)
 
 print("5 + 2 is ", 5 + 2)
-print("5 - 2 is ", 5 - 2)
+print("5 - 2 is ", 5 + 3)
 print("5 * 2 is ", 5 * 2)
 print("5 / 2 is ", 5 / 2)
 print("5 ** 2 is ", 5 ** 2)
