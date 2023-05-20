@@ -8,3 +8,5 @@ This is mini projects of python like
 6 - remove file command
 7 - face recognition using camera
 8 - simple calculator
+9 - matlib
+10 - snake water gun game
