@@ -10,3 +10,4 @@ This is mini projects of python like
 8 - simple calculator
 9 - matlib
 10 - snake water gun game
+11 - email sender
